@@ -1,0 +1,1 @@
+const String IMAGE_AVATAR = "assets/images/arthur.jpg";
